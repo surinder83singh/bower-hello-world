@@ -1,0 +1,26 @@
+{
+  "name": "bower-hello-world",
+  "version": "0.0.1",
+  "homepage": "https://github.com/surinder83singh/bower-hello-world",
+  "authors": [
+    "surinder singh <surinder83singh@gmail.com>"
+  ],
+  "description": "A demo Bower component",
+  "keywords": [
+    "a",
+    "demo",
+    "bower",
+    "component"
+  ],
+  "main":[
+    "bowerHelloWorld.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
